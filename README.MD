@@ -1,4 +1,4 @@
-# Chrome Extension
+# Benford-Law
 
 This is an application detect fraud on data base on Benford law and plot a graph
 
